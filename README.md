@@ -38,11 +38,15 @@ The results of the Object_reader shows decent accuracy, but the reader doesn't p
 
 **Object Detector**  
 ![Object_detector](https://github.com/S-Darce-P/object_detector-filter-reader/assets/142721563/43450448-7bb4-419b-b541-d896094c5b73)
-https://github.com/S-Darce-P/object_detector-filter-reader/assets/142721563/f3888e42-e523-446e-9989-6132fe0c3324
 
 **Object Filter**  
 ![Object_filter](https://github.com/S-Darce-P/object_detector-filter-reader/assets/142721563/82ba3449-382b-4686-b346-8a32f40634d6)
-https://github.com/S-Darce-P/object_detector-filter-reader/assets/142721563/660e9bb4-27c9-4741-a1ca-da86ca8682d2
+
+**Object Reader**
+![Object-Reader](https://github.com/S-Darce-P/object_detector-filter-reader/assets/142721563/7976ace7-aba7-4fd5-9954-e3350a17219c)
+
+video with sound  
+https://github.com/S-Darce-P/object_detector-filter-reader/assets/142721563/881cf552-afc0-4c47-8e36-ee139456cc73
 
 ## **References**
 https://docs.opencv.org/master/d6/d0f/group__dnn.html  
