@@ -37,6 +37,7 @@ The results of the Object_detector/filter are quite accurate and work perfectly 
 The results of the Object_reader shows decent accuracy, but the reader doesn't pronounce well, and the video camera works slowly with a very low frame.
 
 **Object Detector**  
+![Gif 1 of object dimensions](Object_Detector.gif)
 https://github.com/S-Darce-P/object_detector-filter-reader/assets/142721563/f3888e42-e523-446e-9989-6132fe0c3324
 
 **Object Filter**  
