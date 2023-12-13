@@ -36,8 +36,11 @@ https://github.com/pjreddie/darknet/blob/master/data/coco.names
 The results of the Object_detector/filter are quite accurate and work perfectly without errors.  
 The results of the Object_reader shows decent accuracy, but the reader doesn't pronounce well, and the video camera works slowly with a very low frame.
 
-**Object Detector**
+**Object Detector**  
 https://github.com/S-Darce-P/object_detector-filter-reader/assets/142721563/f3888e42-e523-446e-9989-6132fe0c3324
+
+**Object Filter**  
+https://github.com/S-Darce-P/object_detector-filter-reader/assets/142721563/660e9bb4-27c9-4741-a1ca-da86ca8682d2
 
 ## **References**
 https://docs.opencv.org/master/d6/d0f/group__dnn.html  
