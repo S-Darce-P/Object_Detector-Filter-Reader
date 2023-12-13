@@ -22,16 +22,24 @@ https://github.com/pjreddie/darknet/blob/master/data/coco.names
 
 ## **Commands to run the product:**
 ```
+**Object_detector.py**
+% python Object_detector.py
 
-python object_size.py --image images/example_01.png --width 0.955
+**Object_filter.py**
+% python Object_filter.py
+
+**Object_reader.py**
+% python Object_reader.py
 ```
 
 ## **Results:**
-The results are pretty decent even though not perfect. This is due the limitations of the image itself as its not perfect top-down view of the objects and some calibrations could have also been done in the camera before clicking the picture.
+The results of the Object_detector/filter are quite accurate and work perfectly without errors.  
+The results of the Object_reader shows decent accuracy, but the reader doesn't pronounce well, and the video camera works slowly with a very low frame.
 
 ![Gif 1 of object dimensions](example_01.gif)
 ![Gif 2 of object dimensions](example_02.gif)
 
-
-## **The limitations**
-1. This technique requires the image to be near perfect top-down view of the objects to calculate the accurate results. Otherwise the dimensions of the objects in the image may be distorted.
+## **References**
+https://docs.opencv.org/master/d6/d0f/group__dnn.html  
+https://pjreddie.com/darknet/yolo/  
+https://pypi.org/project/pyttsx3/
